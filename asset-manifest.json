@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CADELLI-examenFrontIII/static/css/main.7650aec6.chunk.css",
+    "main.js": "/CADELLI-examenFrontIII/static/js/main.a067cfb8.chunk.js",
+    "main.js.map": "/CADELLI-examenFrontIII/static/js/main.a067cfb8.chunk.js.map",
+    "runtime-main.js": "/CADELLI-examenFrontIII/static/js/runtime-main.28065ff5.js",
+    "runtime-main.js.map": "/CADELLI-examenFrontIII/static/js/runtime-main.28065ff5.js.map",
+    "static/js/2.d1dae2fb.chunk.js": "/CADELLI-examenFrontIII/static/js/2.d1dae2fb.chunk.js",
+    "static/js/2.d1dae2fb.chunk.js.map": "/CADELLI-examenFrontIII/static/js/2.d1dae2fb.chunk.js.map",
+    "index.html": "/CADELLI-examenFrontIII/index.html",
+    "static/css/main.7650aec6.chunk.css.map": "/CADELLI-examenFrontIII/static/css/main.7650aec6.chunk.css.map",
+    "static/js/2.d1dae2fb.chunk.js.LICENSE.txt": "/CADELLI-examenFrontIII/static/js/2.d1dae2fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28065ff5.js",
+    "static/js/2.d1dae2fb.chunk.js",
+    "static/css/main.7650aec6.chunk.css",
+    "static/js/main.a067cfb8.chunk.js"
+  ]
+}
