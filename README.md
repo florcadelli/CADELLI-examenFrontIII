@@ -1,4 +1,7 @@
-Dejo por aqui el Link de GitHub Pages
+Elige tu propia Aventura.
+Proyecto desarrollado en React que cuenta una historia,  en la que el usuario puede ir eligiendo entre distintas opciones y armar su propia camino.
+
+Link de GitHub Pages
 
 https://florcadelli.github.io/CADELLI-examenFrontIII/
 
